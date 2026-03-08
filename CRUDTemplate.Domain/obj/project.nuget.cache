@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3LlrZCleyts=",
+  "success": true,
+  "projectFilePath": "/home/juan/1 - Programacion/C#/CRUDTemplate/CRUDTemplate.Domain/CRUDTemplate.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/juan/.nuget/packages/fluentvalidation/12.1.1/fluentvalidation.12.1.1.nupkg.sha512",
+    "/home/juan/.nuget/packages/isopoh.cryptography.argon2/2.0.0/isopoh.cryptography.argon2.2.0.0.nupkg.sha512",
+    "/home/juan/.nuget/packages/isopoh.cryptography.blake2b/2.0.0/isopoh.cryptography.blake2b.2.0.0.nupkg.sha512",
+    "/home/juan/.nuget/packages/isopoh.cryptography.securearray/2.0.0/isopoh.cryptography.securearray.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

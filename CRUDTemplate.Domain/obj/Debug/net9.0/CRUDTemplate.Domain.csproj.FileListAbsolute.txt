@@ -1,0 +1,12 @@
+/home/juan/1 - Programacion/C#/CRUDTemplate/CRUDTemplate.Domain/obj/Debug/net9.0/CRUDTemplate.Domain.csproj.AssemblyReference.cache
+/home/juan/1 - Programacion/C#/CRUDTemplate/CRUDTemplate.Domain/obj/Debug/net9.0/CRUDTemplate.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/juan/1 - Programacion/C#/CRUDTemplate/CRUDTemplate.Domain/obj/Debug/net9.0/CRUDTemplate.Domain.AssemblyInfoInputs.cache
+/home/juan/1 - Programacion/C#/CRUDTemplate/CRUDTemplate.Domain/obj/Debug/net9.0/CRUDTemplate.Domain.AssemblyInfo.cs
+/home/juan/1 - Programacion/C#/CRUDTemplate/CRUDTemplate.Domain/obj/Debug/net9.0/CRUDTemplate.Domain.csproj.CoreCompileInputs.cache
+/home/juan/1 - Programacion/C#/CRUDTemplate/CRUDTemplate.Domain/bin/Debug/net9.0/CRUDTemplate.Domain.deps.json
+/home/juan/1 - Programacion/C#/CRUDTemplate/CRUDTemplate.Domain/bin/Debug/net9.0/CRUDTemplate.Domain.dll
+/home/juan/1 - Programacion/C#/CRUDTemplate/CRUDTemplate.Domain/bin/Debug/net9.0/CRUDTemplate.Domain.pdb
+/home/juan/1 - Programacion/C#/CRUDTemplate/CRUDTemplate.Domain/obj/Debug/net9.0/CRUDTemplate.Domain.dll
+/home/juan/1 - Programacion/C#/CRUDTemplate/CRUDTemplate.Domain/obj/Debug/net9.0/refint/CRUDTemplate.Domain.dll
+/home/juan/1 - Programacion/C#/CRUDTemplate/CRUDTemplate.Domain/obj/Debug/net9.0/CRUDTemplate.Domain.pdb
+/home/juan/1 - Programacion/C#/CRUDTemplate/CRUDTemplate.Domain/obj/Debug/net9.0/ref/CRUDTemplate.Domain.dll

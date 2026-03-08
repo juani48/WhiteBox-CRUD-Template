@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Juan Ignacio Brecevich",
+    "classifications": [ "Classlib", "C#", "CRUD" ],
+    "identity": "WhiteBoxCRUDTemplate",
+    "name": "WhiteBox CRUD Template",
+    "shortName": "crud-template-classlib",
+    "tags": {
+        "language": "C#",
+        "type": "solution"
+    },
+    "sourceName": "WhiteBoxCRUDTemplate",
+    "description": "A C# template for CRUD applications with layered architecture, clean code, and best practices."
+}
